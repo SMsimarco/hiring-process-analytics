@@ -1,3 +1,4 @@
+![](hiring-funnel-dropoff.png)
 ## Hiring Funnel Friction Analysis
 
 This project analyzes candidate drop-off across different stages
