@@ -1,3 +1,4 @@
+![](decision-quality-comparison.png)
 ## Decision Quality vs Interview Format
 
 This project analyzes how different interview formats impact
