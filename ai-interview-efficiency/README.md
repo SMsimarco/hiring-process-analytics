@@ -1,3 +1,5 @@
+![](interview-efficiency-comparison.png)
+
 ## AI Interview Efficiency Report
 
 This analysis compares traditional hiring interviews with AI-powered
