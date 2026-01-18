@@ -21,5 +21,8 @@ comparing traditional hiring processes with AI-powered workflows.
 - Data analysis
 - Process metrics
 - Power BI (planned)
-### Projects
+### Case Studies
 - [AI Interview Efficiency Report](ai-interview-efficiency/)
+- [Hiring Funnel Friction Analysis](hiring-funnel-friction/)
+- [Decision Quality vs Interview Format](decision-quality-analysis/)
+
