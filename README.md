@@ -21,3 +21,5 @@ comparing traditional hiring processes with AI-powered workflows.
 - Data analysis
 - Process metrics
 - Power BI (planned)
+### Projects
+- [AI Interview Efficiency Report](ai-interview-efficiency/)
